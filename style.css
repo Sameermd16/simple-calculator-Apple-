@@ -53,3 +53,6 @@ body {
     background-color: orange;
     font-size: 30px;
 }
+#delete, #reset, #percent {
+    background-color: rgba(149, 136, 136, 0.25);
+}
